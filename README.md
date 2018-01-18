@@ -1,2 +1,2 @@
 # BankApplication
-Banking Application Programmed in Java
+Banking Application with Both Server and Client Side - Programmed in Java
