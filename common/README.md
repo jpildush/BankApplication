@@ -1,1 +1,2 @@
-# Bank Application - Common files used between the client and server
+# Bank Application
+## Common files used between the client and server
