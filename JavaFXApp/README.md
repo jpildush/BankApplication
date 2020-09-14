@@ -8,7 +8,7 @@ Application designed to replicate an internal banking system using employee defi
 
 **[OpenJFX](https://wiki.openjdk.java.net/display/OpenJFX/Download) was used as JavaFX was not supported on newer versions of Java**
 
-1. Load the application source by adding the folder ```app/``` and its content into the new project folder's source folder.
+1. Load the application source by adding the folder ```app/```, located [here](https://github.com/jpildush/BankApplication/tree/master/JavaFXApp/app) and its content into the new project folder's source folder.
 2. Set the Java and JavaFX libraries
   * Go into project settings/project structure and find the libraries sub-category.
   * Add Java by adding the ```/bin``` directory that resides in the Java JDK folder.
