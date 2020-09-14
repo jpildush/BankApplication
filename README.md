@@ -3,7 +3,9 @@ Application designed to replicate an internal banking system using employee defi
 
 ## Executing Proogram
 **In order to execute the application, a Java IDE is needed - such as IntelliJ IDEA or Eclipse**
+
 **[Java 14](https://jdk.java.net/14/) was used - using 11 or higher should be fine but it is recomended to update to 14**
+
 **[OpenJFX](https://wiki.openjdk.java.net/display/OpenJFX/Download) was used as JavaFX was not supported on newer versions of Java**
 
 1. Load the application source by adding the folder ```app/``` and its content into the new project folder's source folder.
