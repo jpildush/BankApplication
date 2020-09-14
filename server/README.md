@@ -1,2 +1,0 @@
-# Bank Application
-## Server Side
